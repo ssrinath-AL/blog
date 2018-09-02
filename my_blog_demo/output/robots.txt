@@ -1,4 +1,0 @@
-Sitemap: http://test.com/sitemapindex.xml
-
-User-Agent: *
-Host: test.com
