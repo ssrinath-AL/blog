@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Sway"  # (translatable)
-BLOG_TITLE = "My Blog Demo"  # (translatable)
+BLOG_AUTHOR = "Shreyas"  # (translatable)
+BLOG_TITLE = "Musings on Software Architecture, Automation and Devops"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://test.com/"
+SITE_URL = "https://ssrinath-al.github.io"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://test.com/"
-BLOG_EMAIL = "test@test.com"
-BLOG_DESCRIPTION = "Demo blog"  # (translatable)
+BLOG_EMAIL = "shreyassrinath@gmail.com"
+BLOG_DESCRIPTION = "Shreyas's blog"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -899,7 +899,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
